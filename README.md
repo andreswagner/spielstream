@@ -1,4 +1,5 @@
 <img width="2172" height="724" alt="Spielstream Real-Time Tech Banner" src="https://github.com/user-attachments/assets/a461a896-b078-439d-8722-de869090beb4" />
+
 # Spielstream
 
 *A local, open-source playground for learning and sharing Streamhouse architectures.*
